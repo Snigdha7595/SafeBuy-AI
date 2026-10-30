@@ -1,0 +1,130 @@
+[
+  {
+    "url": "",
+    "evidence": "",
+    "id": "hp-1",
+    "name": "Aurora ANC Headphones",
+    "category": "Headphones",
+    "price": "129.00",
+    "currency": "USD",
+    "seller": "Northwind Audio",
+    "description": "Over-ear wireless headphones with active noise cancelling and 30-hour battery.",
+    "listingText": "Over-ear wireless headphones. ANC, Bluetooth 5.3, 30h battery. 30-day returns. 1-year limited warranty.",
+    "returnPolicy": "30-day returns, buyer pays return shipping.",
+    "warranty": "1-year limited warranty.",
+    "specs": {
+      "Battery": "30 h",
+      "Connectivity": "Bluetooth 5.3",
+      "Weight": "260 g"
+    },
+    "knownGaps": []
+  },
+  {
+    "url": "",
+    "evidence": "",
+    "id": "hp-2",
+    "name": "BassMax Pro Headphones",
+    "category": "Headphones",
+    "price": "39.00",
+    "currency": "USD",
+    "seller": "",
+    "description": "Studio-quality ANC headphones, 60-hour battery, best sound ever!",
+    "listingText": "LIMITED TIME! Only 3 left! Studio-quality ANC, 60h battery, 100% genuine. Hurry, price rises tomorrow. Hassle-free service.",
+    "returnPolicy": "",
+    "warranty": "",
+    "specs": {
+      "Battery": "60 h",
+      "Connectivity": "Bluetooth",
+      "Weight": "not stated"
+    },
+    "knownGaps": [
+      "No seller name",
+      "No return or warranty terms"
+    ]
+  },
+  {
+    "url": "",
+    "evidence": "",
+    "id": "mon-1",
+    "name": "ClearView 27 4K Monitor",
+    "category": "Monitors",
+    "price": "349.00",
+    "currency": "USD",
+    "seller": "Pixel Depot",
+    "description": "27-inch 4K IPS monitor, 60 Hz, USB-C with 65 W power delivery.",
+    "listingText": "27-inch 4K IPS. 60 Hz. USB-C 65W. Includes stand. 14-day returns, 2-year warranty.",
+    "returnPolicy": "14-day returns in original packaging.",
+    "warranty": "2-year warranty.",
+    "specs": {
+      "Size": "27 in",
+      "Resolution": "3840x2160",
+      "Refresh": "60 Hz"
+    },
+    "knownGaps": []
+  },
+  {
+    "url": "",
+    "evidence": "",
+    "id": "mon-2",
+    "name": "Vista 27 Monitor",
+    "category": "Monitors",
+    "price": "119.00",
+    "currency": "USD",
+    "seller": "DealZone",
+    "description": "27-inch 4K gaming monitor, 144 Hz.",
+    "listingText": "27-inch 4K gaming monitor 144Hz. Resolution 1920x1080. Ships worldwide.",
+    "returnPolicy": "See website.",
+    "warranty": "",
+    "specs": {
+      "Size": "27 in",
+      "Resolution": "1920x1080",
+      "Refresh": "144 Hz"
+    },
+    "knownGaps": [
+      "Title says 4K, specs say 1920x1080",
+      "No warranty"
+    ]
+  },
+  {
+    "url": "",
+    "evidence": "",
+    "id": "desk-1",
+    "name": "Rise Standing Desk Frame",
+    "category": "Desks",
+    "price": "189.00",
+    "currency": "USD",
+    "seller": "Oakline Furniture",
+    "description": "Electric dual-motor standing desk frame, 80 kg capacity, memory presets.",
+    "listingText": "Dual-motor electric frame. 80 kg capacity. Height 62-127 cm. 30-day returns. 5-year frame warranty.",
+    "returnPolicy": "30-day returns.",
+    "warranty": "5-year frame warranty, 2-year motor.",
+    "specs": {
+      "Capacity": "80 kg",
+      "Height": "62-127 cm",
+      "Motors": "2"
+    },
+    "knownGaps": []
+  },
+  {
+    "url": "",
+    "evidence": "",
+    "id": "kb-1",
+    "name": "Tactile 75 Keyboard",
+    "category": "Keyboards",
+    "price": "89.00",
+    "currency": "USD",
+    "seller": "KeyForge Co.",
+    "description": "Wireless 75% mechanical keyboard with hot-swappable switches.",
+    "listingText": "75% layout, hot-swap switches, Bluetooth + 2.4 GHz. Returns accepted within 30 days.",
+    "returnPolicy": "Returns within 30 days.",
+    "warranty": "",
+    "specs": {
+      "Layout": "75%",
+      "Switches": "Hot-swap",
+      "Connectivity": "BT + 2.4 GHz"
+    },
+    "knownGaps": [
+      "Warranty not stated"
+    ]
+  }
+]

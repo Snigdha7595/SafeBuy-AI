@@ -1,0 +1,20 @@
+# Render Blueprint. Secrets are entered in the Render dashboard (sync: false), never committed.
+services:
+  - type: web
+    name: safebuy-ai
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/health
+    envVars:
+      - key: PAYPAL_ENV
+        value: sandbox
+      - key: LLM_MODEL
+        value: claude-sonnet-5-5
+      - key: LLM_API_KEY
+        sync: false
+      - key: PAYPAL_CLIENT_ID
+        sync: false
+      - key: PAYPAL_CLIENT_SECRET
+        sync: false
+      - key: PAYPAL_WEBHOOK_ID
+        sync: false
